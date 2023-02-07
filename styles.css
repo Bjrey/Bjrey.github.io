@@ -67,6 +67,11 @@ label, input, textarea {
   border-radius: 5px;
 }
 
+label {
+    text-align: left;
+    box-shadow: none;
+}
+
 input[type="submit"] {
   background-color: #333;
   color: #fff;
